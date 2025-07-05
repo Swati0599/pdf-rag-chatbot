@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+
+data/
+faiss_index/
+data_hash.json
+
+*.bin
