@@ -26,17 +26,6 @@ This project is an AI-powered chatbot that answers natural language questions fr
 [▶️ Watch the 1-minute demo](https://www.loom.com/share/5a2b36f808d94554b3478ca622de7832?sid=66bea12f-cdc4-4864-be6d-e9b2952a5c90) 
 
 
-## 📂 Project Structure
-chatbot/
-├── app.py
-├── ui.py
-├── embedded.py
-├── pdf_to_text.py
-├── custom_prompt.py
-├── data/
-└── .env
-
-
 ## ✅ How to Run
 
 1. Clone the repo
